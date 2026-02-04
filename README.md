@@ -4,11 +4,6 @@
 ```markdown
 # 🌱 PadCare GPT: Retrieval-Augmented AI Assistant
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
-[![LangChain](https://img.shields.io/badge/Framework-LangChain-00A67E.svg)](https://python.langchain.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 > **An intelligent, halluncination-free AI assistant built using public PadCare Labs information for the AI Intern Interview Assignment.**
 
 ---
